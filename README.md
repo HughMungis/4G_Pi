@@ -2,6 +2,7 @@
 For all questions, contact admin@HughMungis.com
 
 ####BEFORE YOU RUN setup.sh####
+
 First thing's first, make sure you change APN, user, and password in setup.sh
 The sim card I'm using is from soracom, if you are using something else, make sure you get that information from your provider and change out what is in setup.sh
 
